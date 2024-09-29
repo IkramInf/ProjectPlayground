@@ -1,0 +1,267 @@
+clinical_condition,study_design,sample_size,anode,cathode,intensity,electrode_area,sessions,duration,clinical outcome,sham
+Chronic stroke,CO,6,Ipsilesional M1 (C3/C4),Opposite SO,1,35,1,20,Motor performance (JTHFT) improvement,active > sham
+Chronic stroke,CO,6,Ipsilesional M1 (C3/C4),Opposite SO,1,25,1,20,Motor performance (JTHFT) improvement: active > sham,
+Chronic stroke,CO,11,Ipsilesional M1 (C3/C4),Opposite SO,1,25,1,20,"Motor performance (reaction time, pinch force) improvement",active > sham
+Chronic stroke,CO,11,Ipsilesional M1 (C3/C4),Opposite SO,1,25,1,20,"Motor performance (reaction time, pinch force) improvement",active > sham
+Chronic stroke,CO,4,Ipsilesional M1 (C3/C4),Opposite SO,1,35,4,20,Motor performance (JTHFT) improvement,active > sham
+Postacute stroke,OL,10,Ipsilesional M1 (C3/C4),Opposite SO,1.5,35,30,7,"Improved motor performance (UE-FMA), at least in subcortical stroke",
+Chronic stroke,CO (+ PNS/motor skill learning),9,Ipsilesional M1 (C3/C4),Opposite SO,1,57.8,1,20,Motor task accuracy improvement,
+Postacute stroke,CO,10,Ipsilesional M1 (C3/C4),Opposite SO,1,25,1,20,Motor performance (BBT) improvement,active > sham
+Postacute stroke,PA (+ OT),"13 (6 active, 7 sham)",Ipsilesional M1 (C3/C4),Opposite SO,2,25,10,20,Motor performance (UE-FMA) and daily living activity (BI) changes,active = sham
+Chronic stroke,PA (+ RAT),"20 (10 active, 10 sham)",Ipsilesional M1 (leg representation),Opposite SO,1.5,35,10,7,Walking ability changes,active = sham
+Postacute stroke,PA (+ RAT),"56 (28 active, 28 sham)",Ipsilesional M1 (C3/C4),Opposite SO,2,35,30,20,"Motor performance (UE-FMA, BBT, MRC, AS) and daily living activity (BI) changes",active = sham
+Chronic stroke,CO,9,Ipsilesional M1 (leg representation),Opposite SO,0.5,8/48,1,15,Ankle tracking task accuracy improvement,active > sham
+Postacute (4) or chronic (6) stroke,CO,10,Ipsilesional M1 (C3/C4),Opposite SO,1,35,1,20,Motor performance (JTHFT) improvement,active › sham
+Postacute (4) or chronic (6) stroke,CO,10,Ipsilesional M1 (C3/C4),Opposite Shoulder,1,35,1,20,Motor performance (JTHFT) change,active= sham
+Chronic stroke,CO,8,Ipsilesional M1 (leg representation),Opposite SO,2,35,1,10,Knee extension force increase,active > sham
+Chronic stroke,CO,13,Ipsilesional M1 (5 cm lateral from Cz),Opposite SO,1,35,1,20,Reaction time improvement,active > sham
+Chronic stroke,OL (comparison with 9 rTMS) (+ pinching exercise),9,Ipsilesional M1 (hand TMS hotspot),Opposite SO,1,25,1,20,Motor performance (pinch strength) unchanged,
+Chronic stroke,PA (+ RAT),"8 (4 active, 4 sham)","M1 (leg representation, side NR)",SO(side NR),2,25/35,12,20,Gait improvement,active > sham
+Postacute stroke,CO (+ PT/OT),9,Ipsilesional M1 (C3/C4),Opposite SO,1.5,35,1,15,Dexterity improvement,active > sham
+Chronic stroke,CO (+ RAT),12,Ipsilesional M1 (forearm TMS hotspot or,Opposite SO,2,,1,20,Speed change,active = sham
+Postacute stroke,PA (+ PT),"27 (14 active, 13 sham)",Ipsilesional M1,Opposite SO,2,35,6,25,"Motor performance and daily living activities (OMCASS, BI) improvement",active > sham
+Chronic stroke,"CO with cathodal tDCS, no sham (+ RAT)",18,Ipsilesional M1,Opposite SO,1,35,5,10,"Motor performance (UE-FMA, AS, but not MAL) improvement",
+Acute stroke,PA,"50 (25 active, 25 sham)",Ipsilesional M1 (C3/C4),Opposite SO,2,35,5,20,"Clinical severity (NIHSS), disability (RS), and motor performance (UE-FMA) changes",active = sham
+Postacute stroke,CO,11,Ipsilesional M1 (C3/C4),NR,2,25,1,10,Strength and stability improvement,active › sham
+Chronic stroke,CO,10,Ipsilesional M1 (C3/C4),Opposite SO,1,35,1,20,"Dexterity (PPT), strength (pinch), and attention changes",active = sham
+Chronic stroke,PA (+ PT),"20 (10 active, 10 sham)",Ipsilesional M1 (C3/C4),Opposite SO,1,35,20,20,"Motor performance (BBT, UE-FMA, LE-FMA) improvement",active > sham
+Chronic stroke,CO,13,Ipsilesional M1 (5 cm lateral from Cz),Opposite SO,1,35,1,20,Reaction time improvement,active > sham
+Chronic stroke,PA (+ VRT),"20 (10 active, 10 sham)",Ipsilesional M1 (C3/C4),Opposite SO,2,35,15,13,"Quality of life (SSQOL) improvement: active > sham Motor performance (UE-FMA, WMET, AS) change",active = sham
+Postacute stroke,PA (+ PT/RAT),"24 (12 active, 12 sham)","Ipsilesional M1 (leg representation, TMS hotspot)",Opposite SO,2,,10,10,Motor performance (LE-FMA) improvement: active > sham Gait change,active = sham
+Chronic stroke,OL (+ mirror therapy),"27 (14 active tDCS + mirror therapy, 13 active tDCS only)",Ipsilesional M1 (C3/C4),Opposite SO,2,35,18,20,"Motor performance (BBT, grip strength) improvement: [active tDCS + mirror therapy] › [active tDCS only] (but not for UE-FMA and JTHFT)","active, mirror"
+Chronic stroke,PA (+ CIMT),"12 (6 active, 6 sham)","Ipsilesional M1 (hand representation, 2.5 cm anterior to TMS hotspot)",Opposite SO,1,35,15,30,Motor performance (UE-FMA) improvement (but not for 9HPT and MAL),active > sham
+Chronic stroke,OL (comparison with Rtms),10,"Ipsilesional M1 (hand representation, TMS hotspot)",Opposite SO,1,25,1,20,Motor (pinch strength) and cognitive performance unchanged (as for rTMS),
+Chronic stroke,OL (+BCI),"18 (11 active tDCS + BCI, 7 BCI only)","Ipsilesional M1 (forearm representation, TMS hotspot)",Opposite SO,1,35,10,10,Motor performance (UE-FMA) change: [active tDCS + BCI] = [BCI only],"active, BCI"
+Acute stroke,PA (+ PNS/OT),"20 (10 active,
+10 sham)","Ipsilesional M1 (hand
+Representation, TMS hotspot)",Opposite SO,1.2,35,5,13,"Motor performance (JTHFT, but not UE-FMA) improvement",active > sham
+Postacute (4) or chronic (6) stroke,PA (+ RAT),"22 (11 active, 11 sham)",Ipsilesional M1 (C3/C4),Opposite SO,1,35,18,20,"Motor performance (UE-FMA, ARAT, MAL) change",active = sham
+Chronic stroke,CO (+ PT/RAT),9,Ipsilesional M1 (C3/C4),Opposite SO,0.8,16,1,15,Reaching task accuracy improvement,active > sham
+Chronic stroke,PA (+ motor training),"24 (11 active,
+13 sham)",Ipsilesional M1 (C3/C4),Opposite SO,1,35,9,20,"Motor performance (ARAT, WMET) improvement (but not for
+UE-FMA)",active > sham
+Chronic stroke,PA (+ OT),"15 (8 active, 7
+Sham)",Ipsilesional M1 (C3/C4),Opposite SO,1,35,5,20,Strength (handgrip) improvement,active > sham
+Chronic stroke,PA (+ OT),"15 (8 active, 7
+Sham)",Ipsilesional M1 (C3/C4),Opposite SO,1,35,5,20,Dexterity (JTHFT) change,active = sham
+Chronic stroke,OL (+ PNS/RAT),10,Ipsilesional M1 (C3/C4),Opposite SO,2,25/35,10,20,Clinical severity (SIS) improvement when tDCS is started with PNS (but not when performed at the end of PNS),
+Chronic stroke,OL (+ PNS/RAT),10,Ipsilesional M1 (C3/C4),Opposite SO,2,25/35,10,20,Motor performance (UE-FMA) unchanged,
+Chronic stroke,PA (+ CIMT),"14 (7 active, 7
+Sham)",Ipsilesional M1 (C3/C4),Opposite SO,1,35,12,13,Motor performance (UE-FMA) improvement,active > sham
+Chronic stroke,PA (+ CIMT),"14 (7 active, 7
+Sham)",Ipsilesional M1 (C3/C4),Opposite SO,1,35,12,13,Motor function (MAL) and strength (handgrip) changes,active = sham
+Chronic stroke,CO (+ treadmill training),9,"Ipsilesional M1 (leg
+Representation, TMS hotspot)",Opposite SO,2,35,1,10,Paretic leg propulsion change,active = sham
+Chronic stroke,CO,6,Opposite SO,Contralesional M1 (C3/C4),1,35,1,20,Motor performance (JTHFT) improvement,active > sham
+Chronic stroke,CO,4,Opposite SO,Contralesional M1 (C3/C4),1,35,4,20,Motor performance (JTHFT) improvement,active > sham
+Chronic stroke,OL,5,Opposite SO,Contralesional M1 (C3/C4),1,35,5,20,Improved motor performance (JTHET),
+Postacute stroke,PA (+ OT),"12 (5 active, 7 sham)",Opposite SO,Contralesional M1 (C3/C4),2,25,10,20,Motor performance (UE-FMA) and daily living activities (BI) improvement (in the long-term follow-up only),active > sham
+Postacute stroke,PA (+ RAT),"57 (29 active, 28 sham)",Opposite SO,Contralesional M1 (C3/C4),2,35,30,20,"Motor performance (UE-FMA, BBT, MRC, AS) and daily living activity (BI) changes",active = sham
+Postacute (4) or chronic (6) stroke,CO,10,Opposite SO,Contralesional M1 (C3/C4),1,35,1,20,Motor performance (JTHFT) improvement,active > sham
+Chronic stroke,PA (+ OT),"14 (7 active, 7 sham)",Opposite SO,Contralesional M1 (C3/C4),1,,5,30,"Motor performance (UE-FMA, range-of-motion) improvement",active › sham
+Chronic stroke,CO,13,Opposite SO,"Contralesional M1 (5 cm lateral
+from Cz)",1,35,1,20,Reaction time improvement (less than for anodal tDCS),active > sham
+Chronic stroke,"CO (+ motor skill
+Learning)",12,Opposite SO,Contralesional M1 (C3/C4),1,25,1,20,Motor sequence learning improvement,active > sham
+Postacute stroke,CO (+ PT/OT),9,Opposite SO,Contralesional M1 (C3/C4),1.5,35,1,15,Dexterity change,active = sham
+Postacute stroke,PA (+ PT),"26 (13 active, 13 sham)",Opposite SO,Contralesional M1,2,35,6,25,"Motor performance and daily living activities (OMCASS, BI) improvement",active > sham
+Chronic stroke,"CO with anodal tDCS, no sham (+ RAT)",18,Opposite SO,Contralesional M1,1,35,5,10,"Motor performance (UE-FMA, AS, but not MAL) improvement",
+Chronic stroke,CO,10,Opposite SO,Contralesional M1 (C3/C4),1,35,1,20,Dexterity (PPT) and attention improvement: active > sham Strength (pinch) change,active = sham
+Postacute stroke, PA (+ PT),"11 (5 active, 6
+Sham)",Right shoulder,Contralesional M1 (C3/C4),1.5,35,10,10,"Motor performance (UE-FMA), dexterity (9HPT), strength (pince, handgrip), and gait (walking tests) change",active = sham
+Postacute stroke,CO (+ PT),"11 (5 active, 6
+Sham)",Right shoulder,Contralesional M1 (C3/C4),1.5,35,1,10,Dexterity (9HPT) improvement,active > sham
+Postacute stroke,CO (+ PT),"11 (5 active, 6
+Sham)",Right shoulder,Contralesional M1 (C3/C4),1.5,35,1,10,"Motor performance (UE-FMA, pinch and handgrip strength, and walking tests) and daily living activity (BI) change",active = sham
+Postacute stroke,PA (+ OT/VRT),"59 (20 active tDCS + OT/VRT, 19 active tDCS + OT, 20 OT/VRT only)",Opposite SO,Contralesional M1 (C3/C4),2,25,15,20,Motor performance (UE-FMA) improvement: [active tDCS + VRT] > [active tDCS or VRT only],"active, VRT"
+Chronic stroke,CO,13,Opposite SO,Contralesional M1 (5 cm lateral from Cz),1,35,1,20,Reaction time improvement: active > sham (less than for anodal tDCS),
+Chronic stroke,CO (+ PT/RAT),9,Opposite SO,Contralesional M1 (C3/C4),0.8,16,1,15,Reaching task accuracy worsening,active > sham
+Chronic stroke,CO,10,Opposite SO,Contralesional M1 (TMS hotspot),1,25,5,20,"Motor performance (MRC, range-of-motion, AS), daily living activity (BI), and depression score improvement",active > sham
+Chronic stroke,PA (+ CIMT),"14 (7 active, 7 sham)",Opposite SO,Contralesional M1 (C3/C4),1,35,12,9,"Motor performance (UE-FMA, MAL, grip strength) changes",active = sham
+Chronic stroke,PA (+ PT/OT),"20 (10 active, 10 sham)",Ipsilesional M1 (C3/C4),Contralesional M1 (C3/C4),1.5,16.3,5,30,"Motor performance (UE-FMA, WMET) improvement",active > sham
+Chronic stroke,PA (+ CIMT),"14 (7 active, 7 sham)",Ipsilesional M1 (C3/C4),Contralesional M1 (C3/C4),2,35,10,40,"Motor performance (UE-FMA, hand strength, JTHFT) improvement",active > sham
+Postacute (4) or chronic (6) stroke,CO,10,Ipsilesional M1 (C3/C4),Contralesional M1 (C3/C4),1,35,1,20,Motor performance (JTHFT) improvement (best effect),active > sham 
+Chronic stroke,PA (+ BCI/RAT),"5 (3 active, 2 sham)",Ipsilesional M1 (C3/C4),Contralesional M1 (C3/C4),1,,10,20,Motor imagery accuracy change,active = sham
+Chronic stroke,OL (+ OT/PT),10,Ipsilesional M1 (C3/C4),Contralesional M1 (C3/C4),1.5,,5+5,30,"Motor performance (UE-FMA, WMET) improvement better for 10 than 5 sessions",
+Postacute stroke,CO (+ PT/OT),9,Ipsilesional M1 (C3/C4),Contralesional M1 (C3/C4),1.5,35,1,15,Dexterity change,active = sham
+Chronic stroke,CO,18,Ipsilesional M1 (C3/C4),Contralesional M1 (C3/C4),1,35,1,30,Motor learning improvement,active > sham
+Acute stroke,PA,"14 (7 active, 7 sham)",Ipsilesional M1 (C3/C4),Contralesional M1 (C3/C4),2,35,5,40,"Clinical severity (NIHSS), disability (RS), and motor performance (9HPT, ARAT, MAL) change",active = sham
+Acute stroke,PA (+ CIMT),"20 (10 active, 10 sham)",Ipsilesional M1 (C3/C4),Contralesional M1 (C3/C4),2,35,5,40,"Clinical severity (NIHSS), disability (RS), and motor performance (9HPT, ARAT, MAL) change",active = sham
+Chronic stroke,"CO (+ motor skill
+Learning)",18,Ipsilesional M1 (C3/C4),Contralesional M1 (C3/C4),1,35,1,30,Dexterity and accuracy improvement,active > sham
+Chronic stroke,CO,13,"Ipsilesional M1 (5 cm lateral
+from Cz)","Contralesional M1 (5 cm lateral
+from Cz)",1,35,1,20,Reaction time change,active = sham
+ Postacute stroke,PA,"14 (7 active, 7 sham)","Ipsilesional M1
+(leg representation)","Contralesional
+M1 (leg representation)",2,25,1,15,Gait improvement,active > sham
+Postacute stroke,"PA
+(+ methylphenidate)","9 (3 active Tdcs + drug, 3
+Active tDCS + placebo,
+3 sham tDCS + drug)",Ipsilesional M1 (C3/C4),Contralesional M1 (C3/C4),1,35,1,20,Dexterity (PPT) improvement: [active tDCS + drug] > [tDCS or drug alone],"active, drug"
+Chronic stroke,PA (+ BCI),"19 (10 active, 9 sham)",Ipsilesional M1 (C3/C4),Contralesional M1 (C3/C4),1,,10,20,Motor performance (UE-FMA) change,active = sham
+Chronic stroke,"CO (+ motor skill
+Learning)",19,Ipsilesional M1 (C3/C4),Contralesional M1 (C3/C4),1,35,1,30,Motor skill learning improvement,active > sham
+Postacute stroke,CO (+ PT/OT),31,Ipsilesional M1 (C3/C4),Contralesional M1 (C3/C4),1.5,35,16,20,Gait and balance improvement,active › sham
+Chronic stroke,CO (+ PT/OT),10,Ipsilesional M1 (C3/C4),Contralesional M1 (C3/C4),1.5,16.3,10,30,Motor performance (UE-FMA) improvement,active > untreated
+Chronic stroke,OL (+ PT/OT),5,Ipsilesional M1 (C3/C4),Contralesional M1 (C3/C4),1.5,16.3,10,30,Motor performance (UE-FMA) improvement,
+Chronic stroke,OL (comparison with Rtms),24,Ipsilesional M1 (C3/C4),Contralesional M1 (C3/C4),1.5,25,10,20,"
+Motor (ARAT) and cognitive (memory, attention, and learning tests) performance
+improvement (similar as for10-day rTMS protocol)",
+Chronic stroke,CO,10 sham),"Ipsilesional M1
+(TMS hotspot)","Contralesional
+M1 (TMS hotspot)",1,25,5,20,"Motor performance (MRC, range-of-motion, AS) and depression score improvement",active > sham
+Chronic stroke,"PA (+ rehabilitation
+Exercises)","15 (8 active, 7
+Sham)","Ipsilesional M1
+(TMS hotspot)","Contralesional
+M1 (TMS hotspot)",1.5,25,9,20,"Motor performance (motor assessment and Tardieu scales, grip strength) changes",active = sham
+Chronic stroke,CO,10,Ipsilesional M1 (C3/C4),Contralesional M1 (C3/C4),2,35,1,20,Force steadiness during knee extension and flexion improvement,active > sham
+Chronic stroke,CO,10,Ipsilesional M1 (C3/C4),Contralesional M1 (C3/C4),2,35,1,20,Peak muscular torque change,active = sham
+"Postacute (9) or
+chronic (14) stroke",PA (+ RAT),"23 (12 active,
+11 sham)",Ipsilesional M1 (C3/C4),Contralesional M1 (C3/C4),1,35,10,30,"Motor performance and function (UE-FMA, BBT, MAL) change (but patients with chronic and subcortical stroke may benefit from Tdcs)",active = sham
+Chronic stroke,CO (+ treadmill training),9,"Ipsilesional M1
+(leg representation,
+TMS hotspot)","Contralesional
+M1 (leg representation,
+TMS hotspot)",2,35,1,10,Paretic leg propulsion change,active = sham
+"Postacute stroke
+",CO,10,"Contralesional
+DLPFC (F3/F4)",Opposite SO,2,25,1,30,Cognitive performance (work memory) improvement,active > sham
+Postacute stroke,CO,10,Left DLPFC (F3),Opposite SO,2,25,1,20,Cognitive performance (Go/No-Go test accuracy) improvement,active > sham
+Stroke phase NR (acute?),PA,"11 (6 active, 5",Bilateral DLPFC,Non-dominant arm,2,,18,30,"Cognitive performance (auditory and visual continuous performance tests) improvement: active > sham (but not for MMSE, memory or learning tests)",
+Chronic stroke,CO,"sham)
+9",Contralesional M1 (leg representation),Opposite SO,0.5,8/48,1,15,Ankle tracking task accuracy change,active = sham
+Chronic stroke,CO (+ PT/RAT),9,Contralesional M1 (C3/C4),Opposite SO,0.8,16,1,15,Reaching task accuracy change,active = sham
+Chronic stroke,PA (+ PT),"90 (45 active,
+45 sham)",Right shoulder,"Ipsilesional M1
+(C3/C4)",1.2,24.75,20,20,"Motor performance (UE-FMA, AS) and daily living activity (BI) improvement",active > sham
+Chronic stroke,OL (+ PT),"24 (12 active
+tDCS + PT, 12 PT",NR!,NR!,,,,,Upper limb motor performance (FMA) improved in both groups,
+Chronic stroke,PA (+ TRT),"24 (8 active
+tDCS + TRT, 8
+sham
+tDCS + TRT, 8
+TRT only)","Left parietal
+cortex (Cz?)",Right SO,2,,12,15,Gait change,active = sham
+Stroke phase NR,CO,9,"Ipsilesional
+parietal-insular
+vestibular cortex",Opposite SO,2,25,1,20,Postural adaptation change,active = sham
+Stroke phase NR,CO,9,"Ipsilesional
+parietal-insular
+vestibular cortex","Contralesional
+parietal-insular
+vestibular cortex",2,25,1,20,Postural adaptation improvement,active > sham
+Postacute stroke,CO,15,Right PPC (P4),Left SO,2,25,1,20,Neglect (line bisection and figure cancellation tests) improvement,active › sham
+Postacute and chronic stroke,CO,10,Right PPC (P4),Cz,1,25,1,10,Neglect (line bisection test) improvement,active > sham
+Chronic stroke,CO,10,Right PPC (P4),Left SO,1,25,1,20,Neglect (line bisection test) improvement,active > sham
+Chronic stroke,CO,10,Right PPC (P4),Left SO,1,25,1,20,Star cancellation test change,active = sham
+Postacute stroke,PA (+ prism adaptation),"22 (11 active, 11 sham)","
+Right PPC (P6)",Left SO,2,35,10,20,"
+Neglect (behavioural inattention test) improvement",active > sham
+Stroke phase NR,"
+PA","20 (10 active, 10 sham)",Right PPC (P4),Cz,2,25,15,30,"Neglect (line bisection, star cancellation, and visual perception tests) improvement",active > sham
+Chronic stroke,CO,10,Right PPC (P4),Left PPC (P3),1,25,1,20,Neglect (line bisection test) improvement,active > sham
+Chronic stroke,CO,10,Right PPC (P4),Left PPC (P3),1,25,1,20,Star cancellation test change,active = sham
+Postacute stroke,OL (+ feedback training),"12 (6 active tDCS + feedback, 6 feedback only)",Right PPC (P4),Left PPC (P3),1,35,15,20,Neglect (line bisection and visual perception tests) and daily living activity (BI) improvement: [active tDCS + feedback training] > [feedback training only],"active, feedback training"
+Postacute stroke,PA (+ prism adaptation),"19 (8 active, 11 sham)",Right SO,Left PPC (PM),2,35,10,20,Neglect (behavioural inattention test) improvement,sham > active
+Chronic stroke,CO,5,Right PPC (P4),Left PPC (P3),2,,5,20,Neglect (behavioural inattention test) change,active = sham
+Postacute stroke,PA,"14 (7 active, 7 sham)","Contralesional sensori-
+motor cortex (halfway between C3/C4 and T3/T4)
+",Opposite SO,2,15/30,5,30,Dysphagia severity scale improvement,active > sham
+Postacute stroke,PA,"16 (9 active, 7 sham)",Ipsilesional ’pharyn- geal’ motor cortex,Opposite SO,1,25,10,20,Dysphagia functional scale improvement,active > sham
+Postacute and chronic stroke,PA,"20 (10 active, 10 sham)",Ipsilesional sensori- motor cortex (15 cmlateral from cz),Opposite SO,1,35,10,20,Dysphagia severity scale improvement,active > sham
+"Postacute stroke [nonfluent aphasia: Broca’s expressive
+aphasia (4), global aphasia (4)]",CO,6,"Left IFG (between
+T3-Fz and F7-Cz)",Right shoulder,2,35,1,10,Speech (picture naming accuracy) change,active = sham
+Chronic stroke [nonfluent aphasia],CO (+ naming task training),3,Left IFG (FT?),Right SO,1,35,5,20,Speech (repetition task accuracy) improvement,active > sham
+Chronic stroke [nonfluent aphasia],CO (+ naming task training),7,Left IFG (FS),Right SO,1,35,5,20,Speech (verb/action naming) improvement,active > sham
+"Chronic stroke [nonfluent aphasia: Broca’s expressive aphasia (4), transcortical motor aphasia (2); and fluent aphasia: anomic aphasia (5)]",OL (+ speech/language therapy),11,Left IFG (F7),Left peribuccal,2,25,1,30,Speech (naming accuracy) improved (but not response time) Verbal fluency unchanged,
+Chronic stroke [nonfluent aphasia],CO (+ conversational therapy),12,Left IFG (FS),Right SO,1,35,10,20,Speech (word production) improvement,active > sham
+Chronic stroke [nonfluent aphasia],CO (+ naming task training),7,Left IFG (FS),Right SO,1,35,5,20,Speech (naming accuracy) improvement,active > sham
+Postacute stroke [nonfluent aphasia],PA (+ speech/language therapy),"24 (14 active, 10 sham)",Left IFG (between T3-Fz and F7-Cz),Right SO,1,35,15,10,Speech (naming accuracy and response time) change (but higher effect sizes after active tDCS),active = sham
+Postacute stroke [nonfluent (24) and fluent (13) aphasia],PA (+ speech/language therapy),"37 (18 active, 19 sham)",Left IFG (between T3-Fz and F7-Cz),Right SO,1,35,15,10,Speech (naming and verbal repetition) and comprehension change (but higher effect sizes after active tDCS),active = sham
+"Chronic stroke [nonfluent aphasia: Broca’s expressive aphasia (1), transcortical motor aphasia (1); and fluent aphasia: anomic aphasia (2), transcortical sensory aphasia (1), conduction aphasia (1), Wernicke’s receptive aphasia (2)]",CO (+ speech/language therapy),8,Left IFG (between T3-Fz and F7-Cz),Right SO,2,35,10,20,Speech (object and action naming task) change,active = sham
+Chronic stroke [nonfluent aphasia],CO (+ conversational therapy),8,Left IFG (FS),Right SO,1,35,10,20,Speech (word production) improvement,active > sham
+Chronic stroke [nonfluent (2) and fluent (1) aphasia] ,CO (+ naming task training),3,Left IFG (between T3-Fz and F7-Cz),Right SO,1.5,25,10,20,Speech (naming accuracy) improvement,active > sham
+Chronic stroke [nonfluent aphasia],CO (+ conversational therapy),20,Left IFG (FS),Right SO,2,35,10,20,"Speech (picture description, noun and verb naming) improvement",active > sham
+Chronic stroke [nonfluent aphasia],CO (+ naming task training),3,Left pSTG (CPS),Right SO,1,35,5,20,Speech (naming accuracy and reaction time) improvement,active > sham
+Postacute stroke [nonfluent global aphasia],PA (+ speech/language therapy),"14 (7 active, 7 sham)",Left pSTG (CPS),Right SO,2,35,10,30,Auditory verbal comprehension change,active = sham
+Postacute stroke [nonfluent global aphasia],PA (+ speech/language therapy),"14 (7 active, 7 sham)",Left pSTG (CPS),Right SO,2,35,10,30,Verbal fluency change,active = sham
+Chronic stroke [nonfluent aphasia],CO (+ naming task training),7,Left pSTG (CPS),Right SO,1,35,5,20,Speech (noun naming) improvement,active > sham
+"Chronic stroke [nonftuent aphasia]
+","CO
+(+ conversational therapy)",12,Left pSTG (CPS),Right SO,1,35,10,20,Speech (word production) change,active = sham
+Chronic stroke [nonfluent aphasia],CO (+ naming task training),7,Left pSTG (CPS),Right SO,1,35,5,20,Speech (naming accuracy) change,active = sham
+Chronic stroke [nonfluent aphasia],"
+CO (+ conversational therapy)",8,Left pSTG (CPS),Right SO,1,35,10,20,Speech (word production) change,active = sham
+"Postacute stroke [nonfluent (8), fluent (2) and mixed (2)aphasia]",CO (+ speech/language therapy),12,"Left pSTG
+(between
+T3-P3 and
+C3-T5)",Right shoulder,1.2,25,20,20,Speech (picture naming) and comprehension (auditory identification) improvement,active > sham
+"Acute, postacute, and chronic stroke [nonfluent
+(27) and fluent (10) aphasia]","OL
+(+ speech/language therapy)
+",37,Left SO,"Right IFG (between T4-Fz and F8-Cz)
+",1,36,10,20,"Speech (aphasia quotient) improvement
+",
+"Chronic stroke [nonfluent aphasia: Broca’s expressive aphasia (4), global aphasia (3), transcortical motor aphasia (1); and fluent aphasia: anomic aphasia
+(2)]",CO (+ word retrieval training),10,Left SO,Right IFG (F8),2,25,5,20,Speech (naming accuracy) improvement,active > sham
+Chronic stroke [nonftuent aphasia],CO,25,Left SO,Right IFG (defined on cortex anatomy by neuronavi- gation),1,35,1,15,Speech (picture naming accuracy) improvement only when stroke lesion was located in Broca’s area,active > sham
+Postacute stroke [nonfluent global aphasia],PA (+ speech/language therapy),"14 (7 active, 7 sham)",Left SO,Right pSTG (CP6),2,35,10,30,Auditory verbal comprehension improvement,active > sham
+Postacute stroke [nonfluent global aphasia],PA (+ speech/language therapy),"14 (7 active, 7 sham)",Left SO,Right pSTG (CP6),2,35,10,30,Verbal fluency change,active = sham
+"Chronic stroke [nonfluent  aphasia: Broca’s expressive aphasia (4), transcortical motor aphasia (2); and fluent aphasia: anomic aphasia (5)]",OL (+ speech/language therapy),11,Left IFG (F7) + right peribuccal,"Right IFG (F8) + left
+peribuccal",2,25,1,30,"Speech (both naming accuracy and response time) improved
+Verbal fluency unchanged",
+Chronic stroke [nonfluent  aphasia],"
+CO (+ conversational therapy)",8,"
+Left IFG (FS)","
+Right IFG",2,35,10,20,"
+Speech (naming accuracy, word repetition and reading, articulation speed, and picture description) improvement",active > sham
+Chronic stroke [nonfluent aphasia],"
+CO (+ speech/language therapy)",7,Left IFG (FS),Right IFG,2,35,10,20,"
+Speech (picture description, noun and verb naming accuracy) improvement ",active > sham
+"
+Chronic stroke [nonfluent",CO (+ speech/language therapy),9,Left IFG (FS),Right IFG,2,35,15,20,Speech (articulation accuracy) improvement,active > sham
+Chronic stroke [nonfluent aphasia] ,"
+CO (+ naming task training)",12,Left DLPFC (F3),Right mastoid,2,25,1,20,Speech (naming accuracy) change,active = sham
+Chronic stroke [nonfluent aphasia] ,"
+CO (+ naming task training)",12,"
+Right mastoid",Left DLPFC (F3),2,25,1,20,Speech (naming accuracy) improvement,active > sham
+"Chronic stroke [nonfluent
+Aphasia]","
+CO (+ naming task training)",12,Right DLPFC (F4),Left mastoid,2,25,1,20,Speech (naming accuracy) change,active = sham
+Chronic stroke [nonfluent aphasia],"
+CO (+ naming task training)",12,Left mastoid,Right DLPFC (F4),2,25,1,20,Speech (naming accuracy) change,active = sham
+Postacute stroke,OL,5,"Ipsilesional
+M1 (C3/C4)",Opposite SO,1.5,35,30,7,Speech improvement in 4 patients,
+"Chronic stroke [nonfluent Broca’s expressive aphasia
+(8), fluent anomic aphasia (7), and mixed aphasia (4)]",OL,19,Opposite SO,Contralesional M1 (C3/C4),2,35,10,20,"Speech (naming and verbal fluency) and comprehension
+improvement",
+"Chronic stroke [nonfluent aphasia: Broca’s expressive aphasia (9), global aphasia (6); and fluent aphasia: Wernicke’s receptive aphasia (9), anomic aphasia (2)]","PA (+ naming task
+Training)","26 (13 active, 13 sham)
+but only 22 completed",Left M1 (C3),Right SO,1,35/100,16,20,Functional communication improvement,active > sham
+"Chronic stroke [nonfluent aphasia: Broca’s expressive aphasia (9), global aphasia (6); and fluent aphasia: Wernicke’s receptive aphasia (9), anomic aphasia (2)]","PA (+ naming task
+Training)","26 (13 active, 13 sham)
+but only 22 completed",Left M1 (C3),Right SO,1,35/100,16,20,Speech (naming) change (but with larger transfer to untrained items and more prolonged effect after active tDCS),active = sham 
+Chronic stroke [nonfluent Broca’s expressive aphasia],"CO (+ melodic intonation
+Therapy)",6,"Right IFG (2.5 cm
+posterior to F8)",Left SO,1.2,16.3/30,3,20,Speech (verbal fluency) improvement,active > sham
+Chronic stroke [nonfluent aphasia],"CO
+(+ speech/language
+Therapy)",6,Right IFG (F8),Left SO,2,35,15,20,"Speech (sentence and word naming accuracy) improvement
+",active > sham
+"Postacute stroke [nonfluent aphasia: Broca’s expressive aphasia (4), global aphasia (4)]",CO,6,Right shoulder,"Left IFG (between
+T3-Fz and F7-Cz)",2,35,1,10,Speech (picture naming accuracy) improvement,active > sham
+Chronic stroke [nonfluent  (9) and fluent (3) aphasia],"CO
+(+ anomia/naming task training)",12,"Right temporo- parietal cortex (defined on cortex
+Anatomy)",NR,1,35/100,3,20,Speech (naming accuracy) improvement,active > sham
+Chronic stroke [nonfluent  (9) and fluent (3) aphasia],CO (+ anomia/naming task training),12,NR,Right temporo-parietalcortex (defined onCortex anatomy),1,35/100,3,20,Speech (naming accuracy) improvement (but not Casting),active > sham
+Chronic stroke [nonfluent (6) and fluent (3) aphasia],CO  (+ speech/language therapy),9,Left prefrontal [FP1 (3)] ortemporal [between T7 and TP7 (1)] cortex or IFG[between T3-Fz and F7-Cz (3) or between F3 and F7 (2)],Right homologous area,1,35,10,20,Speech (verb production) change,active = sham
+Chronic stroke [fluent aphasia],CO (+ anomia training and behavioural therapy),8,Left ’posterior’ cortex (fMRl task),Right SO,1,25,5,20,Speech (reaction time for picture naming) improvement,active > sham
+Chronic stroke [nonfluent Broca’s expressive aphasia (5) and fluent anomic aphasia (3)],OL (+ anomia training),8,Left ’posterior’ cortex (fMRl task) (one large square or two small round electrodes),Right SO (one large square or two small round electrodes placed anteri- orly/medially),1,25,5,20,Speech (naming accuracy and response time) improved with both montages,
+Chronic stroke [nonfluent aphasia: Broca’s expressiveaphasia (4); and fluent aphasia: anomic aphasia (6)],CO (+ anomia training),10,"Left precentral
+(6) or prefrontal
+(3) cortex or IFG (2) (fMRl task)","
+Right shoulder",1,25,5,20,Speech (naming accuracy) improvement,active > sham

@@ -1,0 +1,13 @@
+ATLAS mri data download :
+[1] http://fcon_1000.projects.nitrc.org/indi/retro/atlas_download.html
+[2] https://www.icpsr.umich.edu/web/ICPSR/studies/36684
+
+IEEE : DATASET FOR "STROKE CLASSIFICATION IN ELECTROMAGNETIC IMAGING USING GRAPH APPROACHES":
+https://ieee-dataport.org/documents/dataset-stroke-classification-electromagnetic-imaging-using-graph-approaches
+
+DICOM to bitmap conversion :
+https://radiopaedia.org/articles/dicom-to-bitmap-conversion?lang=us
+
+Open-Access Medical Image Repositories :
+http://www.aylward.org/notes/open-access-medical-image-repositories
+

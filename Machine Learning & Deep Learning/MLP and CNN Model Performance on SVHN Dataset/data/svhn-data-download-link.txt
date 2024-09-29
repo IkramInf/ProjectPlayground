@@ -1,0 +1,4 @@
+SVHN dataset download link : http://ufldl.stanford.edu/housenumbers/
+
+train 32x32.mat : http://ufldl.stanford.edu/housenumbers/train_32x32.mat
+test 32x32.mat : http://ufldl.stanford.edu/housenumbers/test_32x32.mat
