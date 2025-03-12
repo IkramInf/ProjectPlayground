@@ -2,6 +2,8 @@
 
 Welcome to the **Project Playground**! This repository serves as a collection of various projects that I've developed over time, showcasing my skills in bioinformatics, Python programming, and more. 
 
+![Gene Interaction Network](gene_interaction_network.png)
+
 ## Technologies Used
 
 This repository includes projects utilizing various technologies and tools, such as:
