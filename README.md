@@ -19,7 +19,7 @@ This repository includes projects utilizing various technologies and tools, such
 To get a copy of this repository and run the projects locally, follow these steps:
 
 1. Clone the repository:
-   git clone [https://github.com/yourusername/ProjectPlayground](https://github.com/IkramInf/ProjectPlayground.git)
+   git clone [https://github.com/IkramInf/ProjectPlayground](https://github.com/IkramInf/ProjectPlayground.git)
 
 2. Navigate to the project directory:
    cd ProjectPlayground
